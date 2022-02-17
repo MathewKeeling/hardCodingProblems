@@ -1,4 +1,6 @@
 #  Lexicographical Permutation Problems
+Problem that best approximates similar problem, and provides that typical algorithm:
+https://leetcode.com/problems/next-permutation/solution/ 
 
 Recently I was faced with a problem in which I was asked to do the following:
 
